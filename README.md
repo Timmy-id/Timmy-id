@@ -32,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Open-Spource Contributions
+### Hacktoberfest Badges for Open-Spource Contributions
 [![@timmy95's Holopin board](https://holopin.me/timmy95)](https://holopin.io/@timmy95)
 
 
