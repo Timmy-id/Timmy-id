@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatimilehin-idowu/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimilehin.id@gmail.com)
 
-- 👀 I’m interested in developing web applications
-- 🌱 I’m currently open to new job opportunities
+- 👀 I’m currently open to job opportunities
+- 🌱 I’m currently learning more about DSA, Typescript and React Native
 - 💞️ I’m looking to collaborate on web and API developmental projects
 
 ### Profile Stats
