@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatimilehin.id@gmail.com)
 
 - 👀 I’m a backend developer and currently open to job opportunities
-- 🌱 I’m currently learning more about DSA, Typescript and React Native
+- 🌱 I currently work with NestJs, Typescript, NodeJs, Python, Django, PostgreSQL, TypeORM, Jest
 - 💞️ I’m looking to collaborate on web and API developmental projects
 
 ### Profile Stats
