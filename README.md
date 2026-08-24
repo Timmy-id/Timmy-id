@@ -6,7 +6,6 @@
 
 - 👀 I’m a data analyst and backend developer and currently open to job opportunities
 - 🌱 I currently work with Python, SQL, Pandas, NestJs, Typescript, NodeJs, PostgreSQL, TypeORM, Jest
-- 💞️ I’m looking to collaborate on web and API developmental projects
 
 ### Profile Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timmy-id&theme=dark&hide_border=true)](https://github.com/Timmy-id/)
